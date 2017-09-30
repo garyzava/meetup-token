@@ -35,7 +35,7 @@ contract ERC20Token
         address indexed to,
         uint256 value);
 
-    // Triggered whenever approve(address _spender, uint256 _value) is called.
+     // Triggered whenever approve(address _spender, uint256 _value) is called.
     event Approval(
         address indexed owner,
         address indexed spender,
