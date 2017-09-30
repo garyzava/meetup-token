@@ -2,13 +2,7 @@
 An [Ethereum](https://www.ethereum.org/) [ERC20](https://github.com/ethereum/EIPs/issues/20) compatible token for members of a [meetup.com](http://www.meetup.com/) group.
 
 # Smart Contract
-The solidity code for the smart contract is in [transferableToken.sol](./contracts/transferableToken.sol)
-
-The Sydney Ethereum contract address is `0xe06eda7435ba749b047380ced49121dde93334ae`
-
-The contract can be viewed Etherscan at https://etherscan.io/address/0xe06eda7435ba749b047380ced49121dde93334ae 
-
-The Application Binary Interface (ABI) for the contract is in [TransferableMeetupToken.abi](./bin/contracts/TransferableMeetupToken.abi)
+The contract can be viewed Etherscan at https://ropsten.etherscan.io/token/0x0060ad1d965f8929cdc901d043168c9208bd951b 
 
 # Installation
 Once Node.js has been installed run the following
